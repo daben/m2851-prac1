@@ -4,7 +4,7 @@
 
 ![A view of Bali][ref:image]
 <span style="font-size: 8pt; float:right;">
-  CC BY SA-3.0 &mdash; *[A view of Bali][ref:image_source]*
+  Image: CC BY SA-3.0 &mdash; *[A view of Bali][ref:image_source]*
 </span>
 
 ### Author
