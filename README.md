@@ -9,11 +9,11 @@
 
 ### Author
 
-David Moriano <[dmoriano@uoc.edu](mailto:dmoriano@uoc.edu)> |
+David Moriano <[dmoriano@uoc.edu](mailto:dmoriano@uoc.edu)>
 
 ### Context
 
-Airbnb claims to be part of the "sharing economy" and disrupting the hotel industry. By analysing the data for a city or region we can see for ourselves the actual impact of "home sharing".
+Airbnb claims to be part of the "sharing economy" and disrupting the hotel industry. By analyzing the data for a city or region we can see for ourselves the actual impact of "home sharing".
 
 ### Content
 
@@ -59,18 +59,11 @@ The dataset includes the following columns:
 | weekly_price_factor | Weekly stay discount factor | Numeric |
 | monthly_price_factor | Monthly stay discount factor | Numeric |
 
-
-### Acknowledgment
-
-Thanks to Airbnb for allowing the scraping of their website.
-
-And thanks to the [Scrapy][ref:scrapy] developers for a wonderful framework.
-
 ### Inspiration - What can you do with this data?
 
 You could use this dataset to find your ideal airbnb hosting in your next holidays in Bali (or any other city you scrap). Or maybe, you are an Airbnb host and you want to know what is the ideal price for your property. These are all useful and practical questions, but we can look a little bigger.
 
-The interest in Airbnb data rises after Murray Cox's research ([InsideAirbnb.com][ref:insideairbnb]) on the impact of Airbnb on the [gentrification][ref:gentrification] of New York. He is trying to answer some relevant questions given the size of Airbnb: How is Airbnb really being used, and how is it affecting the neighbourhoods of New York City. His research has been recently expanded by the Urban Planning and Governance research group at McGill University. They just published a [report][ref:upgo-report] to answer these questions:
+The interest in Airbnb data rises after Murray Cox's research ([InsideAirbnb.com][ref:insideairbnb]) on the impact of Airbnb on the [gentrification][ref:gentrification] of New York. He is trying to answer some relevant questions given the size of Airbnb: How is Airbnb really being used, and how is it affecting the neighborhoods of New York City. His research has been recently expanded by the Urban Planning and Governance research group at McGill University. They just published a [report][ref:upgo-report] to answer these questions:
 
 1. Where is Airbnb activity located in New York, and how is it changing?
 2. Who makes money from Airbnb in New York?
@@ -100,6 +93,10 @@ Under the following terms:
 - NonCommercial — You may not use the material for commercial purposes.
 
 The full details of the [license][cc:by-nc-legalcode] can be found in the previous link.
+
+### Acknowledgment
+
+Thanks to Airbnb for allowing the scraping of their website. And thanks to the [Scrapy][ref:scrapy] developers for a wonderful framework.
 
 ### Code
 
