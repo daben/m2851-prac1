@@ -19,6 +19,8 @@ Airbnb claims to be part of the "sharing economy" and disrupting the hotel indus
 
 The dataset contains +12,000 property listings from Bali, Indonesia collected on April, 2018. This is not a complete collection of all the listings available but hopefully a good representation.
 
+![Heatmap](assets/heatmap.png)
+
 The data has been scraped from airbnb.com with a custom web scraper built with [Scrapy][ref:scrapy]. The crawler iterates on the Bali neighborhoods as provided by Airbnb and on the price range.
 
 Note that the scraper is generic enough to work on other cities, but this hasn't been tested.
